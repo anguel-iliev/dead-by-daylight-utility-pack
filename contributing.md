@@ -253,4 +253,4 @@ whole thing is rebuilt each patch anyway, that difference is small.
 
 ---
 
-*dead-by-daylight-utility-pack · Updated 2026-10-24 · Shared under the MIT License*
+*dead-by-daylight-utility-pack · Updated 2026-10-25 · Shared under the MIT License*
