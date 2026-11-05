@@ -253,6 +253,6 @@ whole thing is rebuilt each patch anyway, that difference is small.
 
 ---
 
-*dead-by-daylight-utility-pack · Updated 2026-11-04 · Shared under the MIT License*
+*dead-by-daylight-utility-pack · Updated 2026-11-05 · Shared under the MIT License*
 
-<!-- rev 2026-11-04 -->
+<!-- rev 2026-11-05 -->
